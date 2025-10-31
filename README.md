@@ -6,7 +6,7 @@ A turntable-based 3D scanner built as part of a university project in geometric 
 
 3D scanning is accomplished by combining a rotating turntable, a laser (planar line laser), and a camera. As the object rotates, the laser projects a line onto the surface, and the deformation of the line observed by the camera encodes depth. By sweeping many views and triangulating, a 3D point cloud or mesh is reconstructed.
 
-This project was developed for the *Geometric and 3D Computer Vision* course at [Ca'Foscari University of Venice / Computer Science Department], and demonstrates:
+This project was developed for the *Geometric and 3D Computer Vision* course at Ca'Foscari University of Venice / Computer Science Department, and demonstrates:
 
 * Camera calibration
 * Laser pose estimation
