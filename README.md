@@ -22,7 +22,6 @@ This project was developed for the *Geometric and 3D Computer Vision* course at 
 * Automated **turntable & scanning loop**
 * Reconstruction of **3D points** from laser sweep
 * Utilities and helper functions for IO, transformations, visualization
-* Sample datasets & scanning results included
 
 
 ## Getting Started
